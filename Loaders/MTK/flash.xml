@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash-mode>
+    <project>k6985v1_64</project>
+    <dagent>DA_BR.bin</dagent>
+    <scatter>../MT6985_21135_Android_scatter.xml</scatter>
+    <build_version>alps-mp-t0.mp1.tc16sp-pr3-V1</build_version>
+    <build_time>2023-03-03 22:42:50</build_time>
+    <version>1.0</version>
+    <contact>Huihui.Wang</contact>
+</flash-mode>
