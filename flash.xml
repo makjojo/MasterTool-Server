@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash-mode>
+    <project>k6781v1_64</project>
+    <dagent>DA_BR.bin</dagent>
+    <scatter>../MT6781_Android_scatter.xml</scatter>
+    <build_version>alps-mp-r0.mp8.tc19sp-V1_bbk.r0mp8.k6781v1.64_P22</build_version>
+    <build_time>2021-12-09 01:16:24</build_time>
+    <version>1.0</version>
+    <contact>Xiao.Liu</contact>
+    <arch>A32</arch>
+</flash-mode>
