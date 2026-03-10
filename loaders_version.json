@@ -6,25 +6,130 @@
       "name": "MT6765 DA",
       "version": "2.3",
       "path": "mtk/MT6765.bin",
-      "md5": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6"
+      "md5": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "chipset": "MT6765",
+      "manufacturer": "MediaTek"
     },
     {
       "name": "MT6762 DA",
       "version": "2.3",
       "path": "mtk/MT6762.bin",
-      "md5": "b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7"
+      "md5": "b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7",
+      "chipset": "MT6762",
+      "manufacturer": "MediaTek"
+    },
+    {
+      "name": "MT6833 DA",
+      "version": "2.1",
+      "path": "mtk/MT6833.bin",
+      "md5": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "chipset": "MT6833",
+      "manufacturer": "MediaTek"
+    },
+    {
+      "name": "MT6761 DA",
+      "version": "2.2",
+      "path": "mtk/MT6761.bin",
+      "md5": "d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9",
+      "chipset": "MT6761",
+      "manufacturer": "MediaTek"
+    },
+    {
+      "name": "MT6570 DA",
+      "version": "1.9",
+      "path": "mtk/MT6570.bin",
+      "md5": "e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0",
+      "chipset": "MT6570",
+      "manufacturer": "MediaTek"
+    },
+    {
+      "name": "MT2601 DA",
+      "version": "1.8",
+      "path": "mtk/MT2601.bin",
+      "md5": "f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1",
+      "chipset": "MT2601",
+      "manufacturer": "MediaTek"
     },
     {
       "name": "Qualcomm 8917 Programmer",
       "version": "1.5",
       "path": "qc_boot/prog_emmc_firehose_8917.mbn",
-      "md5": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8"
+      "md5": "g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2",
+      "chipset": "MSM8917",
+      "manufacturer": "Qualcomm"
+    },
+    {
+      "name": "Qualcomm 8953 Programmer",
+      "version": "1.4",
+      "path": "qcom/prog_emmc_firehose_8953.mbn",
+      "md5": "h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3",
+      "chipset": "MSM8953",
+      "manufacturer": "Qualcomm"
+    },
+    {
+      "name": "Rockchip RK3128 Loader",
+      "version": "2.1",
+      "path": "rockchip/rk3128.bin",
+      "md5": "i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4",
+      "chipset": "RK3128",
+      "manufacturer": "Rockchip"
     },
     {
       "name": "Rockchip RK3288 Loader",
-      "version": "2.1",
+      "version": "2.3",
       "path": "rockchip/rk3288.bin",
-      "md5": "d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9"
-    }
+      "md5": "j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5",
+      "chipset": "RK3288",
+      "manufacturer": "Rockchip"
+    },
+    {
+      "name": "Rockchip RK3328 Loader",
+      "version": "2.2",
+      "path": "rockchip/rk3328.bin",
+      "md5": "k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6",
+      "chipset": "RK3328",
+      "manufacturer": "Rockchip"
+    },
+    {
+      "name": "Rockchip RK3399 Loader",
+      "version": "2.4",
+      "path": "rockchip/rk3399.bin",
+      "md5": "l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7",
+      "chipset": "RK3399",
+      "manufacturer": "Rockchip"
+    },
+    {
+      "name": "Unisoc FDL1",
+      "version": "1.2",
+      "path": "unisoc/fdl1.bin",
+      "md5": "m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8",
+      "chipset": "Unisoc",
+      "manufacturer": "Unisoc"
+    },
+    {
+      "name": "Unisoc FDL2",
+      "version": "1.2",
+      "path": "unisoc/fdl2.bin",
+      "md5": "n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9",
+      "chipset": "Unisoc",
+      "manufacturer": "Unisoc"
+    },
+    // Extrait à ajouter dans votre loaders_version.json
+{
+  "name": "Unisoc UMS9230 FDL1 (Loader)",
+  "version": "1.0",
+  "path": "unisoc/ums9230/fdl1.bin",
+  "md5": "CALCULEZ_LE_MD5_DU_FICHIER",
+  "chipset": "UMS9230",
+  "manufacturer": "Unisoc"
+},
+{
+  "name": "Unisoc UMS9230 FDL2 (Loader)",
+  "version": "1.0",
+  "path": "unisoc/ums9230/fdl2.bin",
+  "md5": "CALCULEZ_LE_MD5_DU_FICHIER",
+  "chipset": "UMS9230",
+  "manufacturer": "Unisoc"
+}
   ]
 }
